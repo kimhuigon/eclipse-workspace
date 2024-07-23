@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main { // 히힛 똥이나 먹어라
-	public static void main(String[] args) {
+	public static void main(String[] args) { // 반동이다! 전위대 전위대!
 		Scanner s = new Scanner(System.in);
 		
 		int a = s.nextInt();
