@@ -7,10 +7,6 @@ public class Main { // 히힛 똥이나 먹어라
 		
 		
 		
-		
-		
-		
-		
 		int a = s.nextInt();
 		
 		if(a % 400 == 0) {
